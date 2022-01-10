@@ -1,0 +1,1 @@
+All content has moved to [risk-measurement](https://magoo.github.io/simple-risk/)
